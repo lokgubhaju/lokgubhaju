@@ -20,8 +20,10 @@
 
 <br />
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lokgubhaju.visitor-badge) ![GitHub stars](https://img.shields.io/github/stars/lokgubhaju/brows-expert?style=social) ![GitHub forks](https://img.shields.io/github/forks/lokgubhaju/brows-expert?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/lokgubhaju/brows-expert?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/lokgubhaju?style=flat-square&logo=appveyor)
 
-![](https://visitor-badge.glitch.me/badge?page_id=lokgubhaju.lokgubhaju)
+
 
 *************
 <p align="center" >
@@ -29,6 +31,8 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=lokgubhaju&&show_icons=true&theme=radical"/>
   </a>
 </p>
+
+
 
 *************
 
