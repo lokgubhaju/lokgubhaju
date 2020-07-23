@@ -1,24 +1,6 @@
-### Hi there, I'm [Lok Gubhaju!](https://loku.codes) 👋.
+# Hi there, I'm [Lok Gubhaju!](https://loku.codes) 👋.
+### I'm pursuing Master's degree in <b>Information Engineering</b> in Kiel, Germany. 🔭 I’m currently looking for an internship
 
-<p align="center">
-<a href="https://facebook.com/lokgubhaju">
-  <img src="/img/004-whatsapp.svg" width="25px">
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/lokgubhaju">
-  <img src="/img/008-instagram-1.svg" width="25px">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/lokgubhaju">
-  <img src="/img/011-github.svg" width="25px">
-</a>&nbsp;&nbsp;
-<a href="https://facebook.com/lokgubhaju">
-  <img src="/img/013-linkedin-1.svg" width="22px">
-</a>&nbsp;&nbsp;
-<a href="https://www.messenger.com/t/lokgubhaju">
-  <img src="/img/012-messenger.svg" width="22px">
-</a>&nbsp;&nbsp;
-</p>
-
-<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lokgubhaju.visitor-badge) ![GitHub stars](https://img.shields.io/github/stars/lokgubhaju/brows-expert?style=social) ![GitHub forks](https://img.shields.io/github/forks/lokgubhaju/brows-expert?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/lokgubhaju/brows-expert?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/lokgubhaju?style=flat-square&logo=appveyor)
@@ -38,32 +20,20 @@
 
 <br />
 
->### Languages and Tools...
-
-<p align="center">
+># Languages and Tools...
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> 
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/languages/html.png" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/languages/css3.png" alt="CSS" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/languages/sass.png" alt="sass" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/misc/mobile.png" alt="mobile" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/misc/tablet.png" alt="tablet" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/misc/web.png" alt="web" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/misc/firefox.png" alt="firefox" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/services/office_365.png" alt="office365" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/tools/jetbrains_intellij.png" alt="intellij" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/tools/jetbrains_phpstorm.png" alt="phpstorm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/dev/tools/jetbrains_webstorm.png" alt="webstorm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-</p>
+<br />
 
+# 📫 How to reach me:
+<a href="lok.gubhaju@gmail.com"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/social/gmail.png" alt="gmail" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://linkedin.com/in/lokgubhaju"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/social/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.facebook.com/lokgubhaju"><img src="https://raw.githubusercontent.com/lokgubhaju/ColoredBadges/master/png/social/whatsapp.png" alt="whatsapp" style="vertical-align:top; margin:4px"></a>
+<br />
 
-<!--
-**lokgubhaju/lokgubhaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <p align="center"> THANK YOU</p>
