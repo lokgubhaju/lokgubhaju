@@ -2,19 +2,19 @@
 
 <p align="center">
 <a href="https://facebook.com/lokgubhaju">
-  <img src="./img/004-whatsapp.svg" width="25px">
+  <img src="/img/004-whatsapp.svg" width="25px">
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/lokgubhaju">
-  <img src="./img/008-instagram-1.svg" width="25px">
+  <img src="/img/008-instagram-1.svg" width="25px">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/lokgubhaju">
-  <img src="./img/011-github.svg" width="25px">
+  <img src="/img/011-github.svg" width="25px">
 </a>&nbsp;&nbsp;
 <a href="https://facebook.com/lokgubhaju">
-  <img src="./img/013-linkedin-1.svg" width="22px">
+  <img src="/img/013-linkedin-1.svg" width="22px">
 </a>&nbsp;&nbsp;
 <a href="https://www.messenger.com/t/lokgubhaju">
-  <img src="./img/012-messenger.svg" width="22px">
+  <img src="/img/012-messenger.svg" width="22px">
 </a>&nbsp;&nbsp;
 </p>
 
