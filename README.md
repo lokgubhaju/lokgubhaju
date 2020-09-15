@@ -8,12 +8,8 @@
 
 
 *************
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=lokgubhaju&&show_icons=true&theme=radical"/>
-  </a>
-</p>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=unaisshazan&show_icons=true&title_color=fff&theme=radical&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokgubhaju&layout=compact&theme=radical)
 
 
