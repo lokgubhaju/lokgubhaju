@@ -4,6 +4,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lokgubhaju.visitor-badge) ![GitHub stars](https://img.shields.io/github/stars/lokgubhaju/brows-expert?style=social) ![GitHub forks](https://img.shields.io/github/forks/lokgubhaju/brows-expert?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/lokgubhaju/brows-expert?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/lokgubhaju?style=flat-square&logo=appveyor)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokgubhaju&layout=compact&theme=radical)
 
 
 
