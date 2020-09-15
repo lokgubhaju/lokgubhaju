@@ -9,7 +9,7 @@
 
 *************
 
-![github stats](https://github-readme-stats.vercel.app/api?username=unaisshazan&show_icons=true&title_color=fff&theme=radical&hide=prs)
+![github stats](https://github-readme-stats.vercel.app/api?username=lokgubhaju&show_icons=true&title_color=fff&theme=radical&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokgubhaju&layout=compact&theme=radical)
 
 
