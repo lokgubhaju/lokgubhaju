@@ -5,8 +5,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lokgubhaju.visitor-badge) ![GitHub stars](https://img.shields.io/github/stars/lokgubhaju/brows-expert?style=social) ![GitHub forks](https://img.shields.io/github/forks/lokgubhaju/brows-expert?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/lokgubhaju/brows-expert?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/lokgubhaju?style=flat-square&logo=appveyor)
 
+*************
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokgubhaju" alt="lokgubhaju" /></a> </p>
 *************
 
 - 🔭 I’m currently working on [Soundwave Landing Page](https://github.com/lokgubhaju/Soundwave)
