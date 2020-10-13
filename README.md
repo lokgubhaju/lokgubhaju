@@ -8,6 +8,7 @@
 *************
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokgubhaju" alt="lokgubhaju" /></a> </p>
+
 *************
 
 - 🔭 I’m currently working on [Soundwave Landing Page](https://github.com/lokgubhaju/Soundwave)
