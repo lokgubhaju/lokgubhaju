@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokgubhaju&layout=compact" alt="lokgubhaju" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokgubhaju&show_icons=true" alt="lokgubhaju" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lokgubhaju&show_icons=true" alt="lokgubhaju" /></p>
 
 # <p align="center"> THANK YOU</p>
