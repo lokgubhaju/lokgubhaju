@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **VueJS Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lokgubhaju](https://github.com/lokgubhaju)
+- 👨‍💻 All of my projects are available at my [GitHub page](https://github.com/lokgubhaju)
 
 - 📫 How to reach me **lok.gubhaju@gmail.com**
 
-- 📄 Know about my experiences [loku.codes](loku.codes)
+- 📄 Know about my experiences [here](https://loku.codes)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
