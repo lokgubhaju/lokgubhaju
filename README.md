@@ -2,8 +2,8 @@
 ### I'm pursuing Master's degree in <b>Information Engineering</b> in Kiel, Germany. 🔭 I’m currently looking for an internship
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lokgubhaju.visitor-badge) ![GitHub stars](https://img.shields.io/github/stars/lokgubhaju/brows-expert?style=social) ![GitHub forks](https://img.shields.io/github/forks/lokgubhaju/brows-expert?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/lokgubhaju/brows-expert?style=social) 
-![GitHub followers](https://img.shields.io/github/followers/lokgubhaju?style=flat-square&logo=appveyor)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lokgubhaju.visitor-badge) ![GitHub stars](https://img.shields.io/github/stars/lokgubhaju?color=green&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/lokgubhaju?style=for-the-badge&logo=appveyor)
 
 *************
 
