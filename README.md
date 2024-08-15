@@ -1,5 +1,5 @@
-# Hi there, I'm [Lok Gubhaju!](https://loku.codes) 👋.
-### I'm pursuing Master's degree in <b>Information Engineering</b> in Kiel, Germany. 🔭 I’m currently looking for an internship
+# Hi there, I'm [Lok Gubhaju!]👋.
+### Currently working as a <b>Frontend Developer</b> in Munich, Germany.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lokgubhaju.visitor-badge) ![GitHub stars](https://img.shields.io/github/stars/lokgubhaju?color=green&style=for-the-badge)
@@ -11,19 +11,16 @@
 
 *************
 
-- 🔭 I’m currently working on [Soundwave Landing Page](https://github.com/lokgubhaju/Soundwave)
+- 🔭 I’m currently working on [Darukaa Earth page](https://github.com/lokgubhaju/Darukaa)
 
-- 🌱 I’m currently learning **VueJS Framework**
+- 🌱 I’m currently learning **NextJS Framework**
 
 - 👨‍💻 All of my projects are available at my [GitHub page](https://github.com/lokgubhaju)
 
 - 📫 How to reach me **lok.gubhaju@gmail.com**
 
-- 📄 Know about my experiences [here](https://loku.codes)
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/gubhajulok" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gubhajulok" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lokgubhaju" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lokgubhaju" height="30" width="40" /></a>
 <a href="https://fb.com/lokgubhaju" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lokgubhaju" height="30" width="40" /></a>
 <a href="https://instagram.com/lokgubhaju" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lokgubhaju" height="30" width="40" /></a>
